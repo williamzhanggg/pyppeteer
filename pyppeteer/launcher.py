@@ -57,7 +57,7 @@ DEFAULT_ARGS = [
     '--metrics-recording-only',
     '--no-first-run',
     '--safebrowsing-disable-auto-update',
-    '--enable-automation',
+    #'--enable-automation',
     '--password-store=basic',
     '--use-mock-keychain',
 ]
